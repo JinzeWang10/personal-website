@@ -82,7 +82,7 @@ const About = () => {
                 whileHover={{ scale: 1.02 }}
               >
                 <img
-                  src="/images/wjz1.jpg"
+                  src="./images/wjz1.jpg"
                   alt="Jinze Wang - Photo 1"
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                 />
