@@ -4,7 +4,6 @@ import { useRef } from 'react';
 import {
   Database,
   Terminal,
-  MessageSquare,
   Brain,
   Zap,
   Users,
